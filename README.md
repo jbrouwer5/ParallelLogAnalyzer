@@ -1,1 +1,1 @@
-Log Processor Prototype in Golang with Parallel Capability using a Parallel-Safe Doubly Linked List
+Log Processor Prototype in Golang with Parallel Capability using a Thread-Safe Doubly Linked List
